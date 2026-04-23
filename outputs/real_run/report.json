@@ -41,6 +41,13 @@
       "none": 109,
       "looping": 37,
       "no_answer_generated": 4
+    },
+    "combined": {
+      "no_answer_generated": 25,
+      "none": 175,
+      "wrong_final_answer": 58,
+      "entity_drift": 5,
+      "looping": 37
     }
   },
   "examples": [
